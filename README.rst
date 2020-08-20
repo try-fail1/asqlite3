@@ -28,6 +28,8 @@ Installing ``asqlite3`` should be done through `PIP <https://pypi.org/project/pi
 
     $ pip install asqlite3
 
+Make sure you have Python version 3.6+ before installing!
+
 Contributing
 --------------
 
